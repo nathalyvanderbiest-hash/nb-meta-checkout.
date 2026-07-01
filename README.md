@@ -1,2 +1,3 @@
-# nb-meta-checkout.
-check out meta
+# nb-meta-checkout
+
+Checkout URL service for Nathaly Botanicals Meta Shop.

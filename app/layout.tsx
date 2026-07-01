@@ -1,13 +1,11 @@
+import type { ReactNode } from "react";
+
 export const metadata = {
   title: "Nathaly Botanicals Meta Checkout",
   description: "Checkout service for Nathaly Botanicals",
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <body>{children}</body>
